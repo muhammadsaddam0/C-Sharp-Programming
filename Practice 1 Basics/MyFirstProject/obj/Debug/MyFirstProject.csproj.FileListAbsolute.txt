@@ -1,0 +1,16 @@
+E:\saddam\C# Projects\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+E:\saddam\C# Projects\MyFirstProject\bin\Debug\MyFirstProject.exe
+E:\saddam\C# Projects\MyFirstProject\bin\Debug\MyFirstProject.pdb
+E:\saddam\C# Projects\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+E:\saddam\C# Projects\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\saddam\C# Projects\MyFirstProject\obj\Debug\MyFirstProject.exe
+E:\saddam\C# Projects\MyFirstProject\obj\Debug\MyFirstProject.pdb
+E:\saddam\C# Projects\MyFirstProject\obj\Debug\MyFirstProject.exe.config
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\bin\Debug\MyFirstProject.exe
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\bin\Debug\MyFirstProject.pdb
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\obj\Debug\MyFirstProject.exe.config
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\obj\Debug\MyFirstProject.exe
+E:\saddam\C# Projects\Practice 1 Basics\MyFirstProject\obj\Debug\MyFirstProject.pdb
