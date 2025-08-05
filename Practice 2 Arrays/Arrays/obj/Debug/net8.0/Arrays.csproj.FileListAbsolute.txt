@@ -1,0 +1,28 @@
+E:\saddam\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\saddam\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\saddam\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\saddam\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\saddam\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\saddam\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\saddam\C# Projects\Practice 2 Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
