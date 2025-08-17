@@ -1,0 +1,14 @@
+E:\saddam\C# Projects\Functions\Functions\bin\Debug\net8.0\Functions.exe
+E:\saddam\C# Projects\Functions\Functions\bin\Debug\net8.0\Functions.deps.json
+E:\saddam\C# Projects\Functions\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+E:\saddam\C# Projects\Functions\Functions\bin\Debug\net8.0\Functions.dll
+E:\saddam\C# Projects\Functions\Functions\bin\Debug\net8.0\Functions.pdb
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.dll
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\refint\Functions.dll
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.pdb
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+E:\saddam\C# Projects\Functions\Functions\obj\Debug\net8.0\ref\Functions.dll
