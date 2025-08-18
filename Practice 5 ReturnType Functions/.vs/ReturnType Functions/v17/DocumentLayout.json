@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\saddam\\C# Projects\\ReturnType Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC84BB73-CF16-4031-A68D-CC6C8F82C522}|ReturnType Functions\\ReturnType Functions.csproj|e:\\saddam\\c# projects\\returntype functions\\returntype functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC84BB73-CF16-4031-A68D-CC6C8F82C522}|ReturnType Functions\\ReturnType Functions.csproj|solutionrelative:returntype functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\saddam\\C# Projects\\ReturnType Functions\\ReturnType Functions\\Program.cs",
+              "RelativeDocumentMoniker": "ReturnType Functions\\Program.cs",
+              "ToolTip": "E:\\saddam\\C# Projects\\ReturnType Functions\\ReturnType Functions\\Program.cs",
+              "RelativeToolTip": "ReturnType Functions\\Program.cs",
+              "ViewState": "AgIAAAkAAACgmZmZmZktwBgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:23:10.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
