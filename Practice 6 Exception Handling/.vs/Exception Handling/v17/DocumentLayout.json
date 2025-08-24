@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\saddam\\C# Projects\\Exception Handling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA82BD7-6623-4F97-B512-0A1D75964EF7}|Exception Handling\\Exception Handling.csproj|e:\\saddam\\c# projects\\exception handling\\exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA82BD7-6623-4F97-B512-0A1D75964EF7}|Exception Handling\\Exception Handling.csproj|solutionrelative:exception handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\saddam\\C# Projects\\Exception Handling\\Exception Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Exception Handling\\Program.cs",
+              "ToolTip": "E:\\saddam\\C# Projects\\Exception Handling\\Exception Handling\\Program.cs",
+              "RelativeToolTip": "Exception Handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:25:17.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
